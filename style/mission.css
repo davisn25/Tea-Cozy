@@ -1,0 +1,14 @@
+#mission {
+    height: 700px;
+}
+
+#ourMission {
+    width: 1200px;
+    text-align: center;
+    margin: 0 auto;
+    position: absolute; 
+    top: 350px; 
+    left: 50%; 
+    transform: translate(-50%, -50%); 
+    background-color: black;
+}

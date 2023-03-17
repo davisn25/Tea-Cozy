@@ -1,0 +1,27 @@
+.teaMonth {
+    display: grid;
+    width: 1000px;
+    margin: 0 auto;
+    gap: 16px;
+}
+
+.teaImages {
+    display: grid;
+    gap: 16px;
+}
+
+.imageRow {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    gap: 24px;
+}
+
+.teaImage {
+    gap: 10px;
+}
+
+.teaTypes {
+    width: 200px;
+}

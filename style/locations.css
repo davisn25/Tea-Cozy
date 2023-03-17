@@ -1,0 +1,28 @@
+#locations {
+    display: flex;
+    justify-self: center;
+    flex-direction: column;
+    justify-content: center;
+    height: 500px;
+    width: 1050px;
+    gap: 15px;
+    background-image: url("../images/img-locations-background.jpg");
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#locationsDiv {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.location {
+    display: grid;
+    padding: 32px 0;
+    width: 300px;
+    background-color: black;
+    opacity: 1;
+    gap: 32px;
+}
